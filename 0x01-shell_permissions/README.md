@@ -1,1 +1,1 @@
-sets the permission to the file with no owner or group permission but others have
+sets the mode of the file hello to -rwxr-x-wx
